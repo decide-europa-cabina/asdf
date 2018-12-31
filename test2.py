@@ -1,1 +1,1 @@
-print("It's the second test in the son...")
+print("It's the second test...")
